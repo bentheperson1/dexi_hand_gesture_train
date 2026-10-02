@@ -1,0 +1,6 @@
+# put the names of the gesture classes which need more than one hand to be detected in this array
+# example: multi_hand_gestures = ["zoom", "heart"]
+
+
+multi_hand_gestures = []
+
